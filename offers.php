@@ -1,5 +1,5 @@
 <?php
 
-header("Location:https:https://vclit.com/ssuh")
+header("Location:https://vclit.com/ssuh")
 
 ?>
